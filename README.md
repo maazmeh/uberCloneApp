@@ -78,31 +78,7 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
-_____________________________________________________
-     __________________________                      |
-      All Current From Upwork                        |
-     ---------------------------                     |
-                                                     |
-  Item      Current          Additional              |
-                                                     |
-Salaries      190K        190 + 110K = 300K          |           
-Expenses      120K        120 + 130K = 250K          |       
-                                                     |
- Total        310K           600K (Approx)           |
-                                                     |
-                                                     |
-                                                     |
-                                                     |
- Current Outcome    ==> 1800$ - 2300$                |
- Projected Outcome  ==> 2300$ - 3500$                |
-                                                     |
-Estimated Savings:  200,000 PKR - 375,000 PKR        |
-                                                     |
-25% of Sales:       50,000 -- 93,750                 |
-                                                     |
-Profit after Royalty: 150,000 PKR - 275,000 PKR      |
-                                                     |
-------------------------------------------------------
+
 
 rider status:
 1 active
